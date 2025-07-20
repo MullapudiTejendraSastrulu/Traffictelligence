@@ -1,0 +1,20 @@
+{
+  "name": "traffic_webapp",
+  "version": "1.0.0",
+  "description": "Advanced traffic volume estimation system using machine learning and computer vision.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MullapudiTejendraSastrulu/Traffictelligence.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MullapudiTejendraSastrulu/Traffictelligence/issues"
+  },
+  "homepage": "https://github.com/MullapudiTejendraSastrulu/Traffictelligence#readme"
+}
